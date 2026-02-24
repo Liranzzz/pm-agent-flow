@@ -1,0 +1,11 @@
+# Generated outputs — not committed
+outputs/*.md
+!outputs/README.md
+
+# User attachments — not committed
+inputs/attachments/*
+!inputs/attachments/README.md
+
+# OS
+.DS_Store
+Thumbs.db
